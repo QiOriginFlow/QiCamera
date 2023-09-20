@@ -9,7 +9,9 @@
 
 ## 流程图
 
-![Flowchart_副本](https://github.com/mianchengdaqi/cameralite/assets/145448656/091800e7-6a1a-4de7-acdf-22680c19a1e9)
+<img src="https://github.com/mianchengdaqi/cameralite/assets/145448656/091800e7-6a1a-4de7-acdf-22680c19a1e9.jpg" width = "100%" />
+
+
 
 
 ## 预计实现内容
@@ -26,7 +28,8 @@
 
 ## 原型页面
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=ODAxMTQ1MDQwNWRmNzllYmM3NGEyZDUyOTJkMmQ1ZGZfdGw2aVpSYWRYNDBiajlDNjNDNjd1dXFwTGNhcW80T3hfVG9rZW46SHFDT2JRUnI2b04zRzZ4RmpnS2NQeHk5bkRlXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/db9d92f7-9d47-43cf-829a-91e4a158367f.jpg" width = "100%" />
+
 
   
 
@@ -34,7 +37,7 @@
 
 ## A1 首页
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDdjMjhjODU5NjZhNDgzM2ExNzJlMThkZjA4ZjI1OWVfS2IxU0VjbWlIVzI3T3ZsUVNIMmhYcDhIY3JuYlNUTFhfVG9rZW46VlJVcWJadTVQb1VrSnF4SEk5OWNHOGV6bmdoXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/8369d824-2d99-4816-9364-8c5c3bd02016.jpg" width = "33%" />
 
 **说明：**
 
