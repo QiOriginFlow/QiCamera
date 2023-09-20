@@ -141,19 +141,13 @@ button：我确定,进行下一步 | 重新上传正面照片
 
 ## A3 上传二十半身照
 
-上传
+上传  /  识别  /  通过
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=MzdlZDc1NjBjNjkyNTEyMWQwYjkzMjFiNmNjN2Q1ZDRfMHhHM0t4eHREaWFkUklOYlhuTWZzWUpBem5kSDA5eUxfVG9rZW46UENLdWJ4RnFvbzNZMDF4bk4xV2NEQWRyblVnXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=Nzk2NjkxYTYxNjU4MWZhYWY4MzlhYzhlNjYxMjAyMzVfM1p5Zm9rUmZzd3l2WmJ4QURtMnVYTWpja0pVdktReHlfVG9rZW46S1NMWWJMYUhzb3Z6Umt4cFFjeGNMS2lhbkIyXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=YmI1MGFlZDY5NzMyMmZmMGYxNTgwYTA2MTdhYzFiNTFfZWxNMmtQbWJYWkk4dVZqUDJDT2xGMFVqZWxaN0k0WWRfVG9rZW46WTlhbWIwZGFqb0N4VEF4TjN5QWNvdFE3bnllXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/ba3a91c7-d503-42e2-9ffa-bd23edae9728.jpg" width = "33%" /><img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/0ad4f356-84ef-4ff4-928e-e40e93262dcf.jpg" width = "33%" /><img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/00459cd0-c248-4169-b143-808223dfa233.jpg" width = "33%" />
 
-  
-
-识别
 
   
 
-通过
-
-  
 
   
 
@@ -224,11 +218,10 @@ button：我确定,进行下一步 | 重新上传正面照片
 
 ## A4 排队页面
 
-排队
+排队  /  制作
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=MDY2NWU3MzgzMmJiOGUwZTBmNjliZWMyNzNjOGM1MDJfalhOa2l5SGVQR2tFWG1mNXhoMjB5bHJLYkVEQXFmb05fVG9rZW46SnhXZWJVcGdab3dhWDh4Y0gxcmNybUhpbmwxXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=NGFlZTlkYmI4MWRmMTU2MGNlM2RlZmQ5MWMzZjRlMmRfSFU3YWlUQ1VFM2Q4UFBNbTN4Q09qMHpnMHJXUjhVRXFfVG9rZW46RU1DaWJlWGRmbzZNdGJ4ajRLNmM4Zllibkt4XzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/9becc9b9-eee6-4e77-bebc-44b61683f6bb.jpg" width = "33%" /><img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/3274728c-8f20-4ed7-bfc5-283733c0d478.jpg" width = "33%" />
 
-制作
 
   
 
@@ -276,15 +269,11 @@ Button：开启进度通知
 
 ## A5 生成结果列表
 
-初见
+初见  /  再见  /  删除
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=YmYxNDAwMzkyMjk2ODY2MTQxNjA2NDliYjdlMmJjOWRfdnAzRnBVcVJqRFBDbHBHb3M1bnpzZGlqSjRld2RjaDJfVG9rZW46RnlLRmJiWG05b0tsYjd4MDhIbGNzUHFibnZlXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=NDZkZWYyYTk5MGQ1ZGZlYTE4NTFjYWJmMDkxMzgxOGFfeWhCbmFqUFVRU1ZpR2M5NlladnMzU0IwV3JqTmJxYnVfVG9rZW46QThBNGI1N3A2bzhmS094SzN0T2N6ZHlDbjFnXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=M2M0ZDM2YjY2NmYzN2IyNWI3OTQ1NTRmZjQ0NzRhMTBfNUpkZDB5SElvcGk0bkV5ekJJT3NIZFN4anpvMnYwQTZfVG9rZW46UTVzZ2J5dTYyb0JYUUF4Yjl1N2Nka3lnbkNoXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/5e7a99c8-d20e-4741-ab09-94d2fa4c462e.jpg" width = "33%" /><img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/90d6e129-bc7d-4c8f-b554-a870521167da.jpg" width = "33%" /><img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/8a27ef0e-f984-4969-9d51-c25830c84c34.jpg" width = "33%" />
 
-再见
 
-  
-
-删除
 
   
 
@@ -347,7 +336,9 @@ Button：开启进度通知
 
 ### - D1 钻石充值页面
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=OGNhZThiOTI1YWFjNmIyODFmZmI0YjZmNGNkNmRmZTlfRU1jWGg3ZzlYOGpxN0szN29na2g5SHFJN1BUNG05RXpfVG9rZW46Q2lSMWJlQzY1b1ZPOTl4VkRoQ2N1c2U5bklmXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/5dc563c1-97a4-4ade-84c8-a56465249d32.jpg" width = "33%" />
+
+
 
   
 
@@ -371,7 +362,8 @@ Button： ￥{价格} 立即充值
 
 ## A6 写真模板主题列表
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=NDU1MDQxMGNkNGQ2MTAzMTZhNmY1MzI0YmM0ZDQ0NGJfdDVwa1UyVE0yeVNjb1hJbXRHNktvZXVEMTQ1Z3ZHd0VfVG9rZW46TWZaTmJrcUJUb2RJNzF4dWxQb2N6VDdDbm5lXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/fdc7498e-3b3e-483b-b404-e02341ab0679.jpg" width = "33%" />
+
 
   
 
@@ -428,12 +420,8 @@ Button： ￥{价格} 立即充值
   
 
 ## A7 写真模板风姿选择
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/bc4cc207-6bef-42aa-8b05-28868d18c057.jpg" width = "33%" />
 
-  
-
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=NDBiM2UwODYzNDVkMDE4NDljMzQwMzZhZjdlY2M3ZmJfQVdScUN0R3hjcG9acG5jME5RNW1rWkdGOUxuSGFnQzhfVG9rZW46R25IQmJmMUJHbzZ4dU54VkZ2QWNjM3FVbmVZXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
-
-  
 
   
 
@@ -490,13 +478,13 @@ Button： ￥{价格} 立即充值
 
 ## C1 生成写真页面
 
-生成中
+生成中  /  生成结束
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/b10a10ff-d404-474d-8098-46e8e04855af.jpg" width = "33%" /><img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/d3b8a9ab-4076-4ff0-9c20-1c735113965b.jpg" width = "33%" />
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=OWRjNTBlYzRkMjRlOTdmMjBiMjgxNGNmMjljNjBiZDJfY21ubDdpTE83WnBUcWlTSjRBUE9wbjlKUjdmaGZvTFJfVG9rZW46VlhieGJnS0Y2b1htWmp4VUwzb2M0RkdEbkhiXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=YmRjYzIxNTFhODk3YTQ0YTRiMWFlN2I5NWIxM2UzYjZfQXdnZGRLdlg1cTFuQzhLTlJjb3NSeXJGdXF4TDExREtfVG9rZW46WHU3ZWJhdXdIb0VzaXR4YzRqdGN6YzRibnpoXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+
 
   
 
-生成结束
 
   
 
@@ -561,7 +549,7 @@ Button： ￥{价格} 立即充值
 
   
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=M2UzZjQ3NGQzYTFiNzQ2NTZkNTNiMTFiY2ExMzJkMjJfM3laSDhSaWdyemJ6d2JGV2FlVzNvR2JFaHFZQktZSVVfVG9rZW46QUVkSmJWOUY4bzF3UWN4dU5FdWNndnQwbk1lXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/5ad23b96-026e-4698-9863-6c70e66e4d0b.jpg" width = "33%" />
 
   
 
@@ -597,7 +585,7 @@ Button： ￥{价格} 立即充值
 
 ### - D2 高清照片消费
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=N2IwNTcxMTkzZTNhZmU1MzJmNDAyOTI4MDM0OThhNTVfWmNKS3FmQ2tnY3pReVZjaWlvRHRwdVQ3Ym1vR2RvaDJfVG9rZW46UTRMU2JPY1lLb2dkU3R4eTR2Y2NGellsbm5mXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/955c278b-32a6-4cdc-81bd-81c67a7622fa.jpg" width = "33%" />
 
   
 
@@ -607,7 +595,8 @@ Button： ￥{价格} 立即充值
 
 ### - D3 下载照片消费
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=M2VhYmU4Y2U5NTY2MWFmZjBjYTBhZDI1YWE1Y2FiOGZfNGtvUVBIaGE0cjNFV3hYZ2ttWE52bFNndWNDdHBxdExfVG9rZW46SWR6bmI4VUI1b01UeWx4R0lBZWNQZ2ZLbjlnXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/09d58b60-d366-42cd-8732-475dc55a31de.jpg" width = "33%" />
+
 
   
 
@@ -621,7 +610,7 @@ Button： ￥{价格} 立即充值
 
 ## B1 了解详情页
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=YTMzMjAwNmUzNmFkYjI3ZjM5ZTkzZDUyMTdmZWViZTJfWklxQm1IT2I3Z1YybGFYbXlHUW9WRjhZbXJFUXVsM0VfVG9rZW46RTdZMGJPSUlmb0JaRm54N2pETmM2UWRUbk5JXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/d1831ce6-6015-4ed1-9b98-3f2e8e2d2e2b.jpg" width = "33%" />
 
   
 
@@ -650,7 +639,7 @@ Button： ￥{价格} 立即充值
 
   
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=OTQyNGJhOGNiYWQ1MGM3YWExMmRkNzczZDQzMmZhYmNfdnlZQTBDczcxSTlVamtGTU5sSGdZZFl2TWdPc3d4djhfVG9rZW46T2cwMmI2aDZXb3JKY2N4YjA5V2NacVpiblliXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/400ef6d6-1915-433b-b2bc-6eef96ae5022.jpg" width = "33%" />
 
   
 
@@ -670,7 +659,7 @@ Button： ￥{价格} 立即充值
 
   
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=OWY1M2Q0NTJjNWIwNmU1OGMzMDlmMTdjNThkZjY1ZTVfZVZ3eFpYRmlhN2RlY0lnZjdvODEzczkwYTdzQzhoNTdfVG9rZW46RVZRTmI3NFpxb2dqZUN4ZVVzN2NQTnpxbjRjXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/1ca15002-154d-408d-8c73-f48a3ba55e08.jpg" width = "33%" />
 
   
 
@@ -689,7 +678,7 @@ Button： ￥{价格} 立即充值
 
   
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=MTRhYzJjZGE1N2E4OGFkOTUzYTdjNTgxY2M0OGZlM2VfTEVudXlzVzBSbHZEYXFlcG45RlN6WDM1dThBdVkyWlJfVG9rZW46UHU2WWJ1WlpFb0lRbDh4SndDdGNIc2k3bk9jXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/8034877a-6136-4895-af9e-7ae2abee3c2d.jpg" width = "33%" />
 
   
 
@@ -715,7 +704,7 @@ Button： ￥{价格} 立即充值
 
 ## B7 我的数字分身
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=Yjg3ZDRlMDcxZDMwY2I2YjMxZDQ0N2Y4NjBjM2Q0Y2VfcndSeDkzanZEald3cTVoYjV0bmF1NVRhbG5POU8zNHhfVG9rZW46T3d2N2J0SklXbzI1ckV4RmVGdmNndTRxblBiXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/edac1745-d410-43b9-a955-51e47c12e0ee.jpg" width = "33%" />
 
   
 
@@ -738,4 +727,4 @@ Button： ￥{价格} 立即充值
 
   
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=ODRiMTA1M2VkMjg5YTMyMDYyODE0OGZiYjU4ZjQ5NWFfVWtTZ1JVN3NNcWtld3c3SjR5WlN3RlV4bHczRkRFZTVfVG9rZW46QmpEZWJQTnR1bzUxMzF4RVBKWWNuY1dqblBNXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/1b495e5d-5d5f-422a-af6a-219e88cc6b3e.jpg" width = "33%" />
