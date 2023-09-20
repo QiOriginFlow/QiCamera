@@ -479,6 +479,7 @@ Button： ￥{价格} 立即充值
 ## C1 生成写真页面
 
 生成中  /  生成结束
+
 <img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/b10a10ff-d404-474d-8098-46e8e04855af.jpg" width = "33%" /><img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/d3b8a9ab-4076-4ff0-9c20-1c735113965b.jpg" width = "33%" />
 
 
