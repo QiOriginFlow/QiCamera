@@ -82,13 +82,13 @@ STEP3 精修下载
 
 ## A2 上传头像页面
 
-上传
+上传  /  通过  /  失败
 
-![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=MTU1YmM2ZjhkODU5ZDMyMjAyYWY2NmZjYmI1MmExMDZfektvbWNTNGFXZjlCNDVUbVlsM3JvV09wWDdTZ24wV0VfVG9rZW46Q2YyVmJQZlZCb1poSm94U3FJNmNzcjc0bmhkXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=N2Q2NjgxMzc1NTlmZWY2NjZjYTI5NzdlMWZlOWNmYjhfUDBXTU9ua2dzM0k3aVRrdjdWNjdkNmhXN1N3ZU56N1hfVG9rZW46VjhjS2JMcGJ0bzJZbDl4NEMzNmNiMmlrbnZjXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)![](https://buzakeji.feishu.cn/space/api/box/stream/download/asynccode/?code=MWUzOGI0NmNjNDc2N2I2YmM2MTk5NjdiMTk2YTY2MjJfMm9zZkF5OWdBQUhGeDVFM1Nrc2RBVFRNd2lneXU0bGNfVG9rZW46UGhkb2JjZjRzb2pNNnN4VjNlUWNzQUtvbm9kXzE2OTUxOTY0NjY6MTY5NTIwMDA2Nl9WNA)
+<img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/2174859b-3799-4e0a-a9c6-cce3ac5be931.jpg" width = "33%" /><img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/25bc8b8a-0a15-4c0a-9078-272fba7d0cc7.jpg" width = "33%" /><img src="https://github.com/QiOriginFlow/QiCamera/assets/145448656/693bf9fc-4bce-48f5-a16c-b6702e512f0d.jpg" width = "33%" />
 
-通过
 
-失败
+
+
 
   
 
